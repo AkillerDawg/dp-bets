@@ -1,1 +1,1 @@
-Working on a fun site for a sports betting predictor
+Working on a fun site for a sports betting predictor. Copyright AKillerDawg LLC
