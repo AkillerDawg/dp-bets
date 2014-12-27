@@ -1,1 +1,1 @@
-Working on a fun site for a sports betting predictor. Copyright AKillerDawg LLC
+Working on a fun site for a sports betting predictor. Github placed. Copyright AKillerDawg LLC
